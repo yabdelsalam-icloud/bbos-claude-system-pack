@@ -1,0 +1,15 @@
+<bbos_governor_output>
+  <active_stage>...</active_stage>
+  <active_command>...</active_command>
+  <skills_invoked>
+    <skill>...</skill>
+  </skills_invoked>
+  <validator_results>
+    <validator name="...">pass|fail|not_run</validator>
+  </validator_results>
+  <recommendation>remain|advance|patch|no_ship</recommendation>
+  <reason>...</reason>
+  <required_actions>
+    <action>...</action>
+  </required_actions>
+</bbos_governor_output>

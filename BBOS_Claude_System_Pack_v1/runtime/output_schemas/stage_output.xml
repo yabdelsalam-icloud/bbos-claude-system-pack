@@ -1,0 +1,16 @@
+<bbos_stage_output>
+  <stage>...</stage>
+  <decision>ready|not_ready|no_ship</decision>
+  <criteria_report>
+    <criterion name="...">met|not_met</criterion>
+  </criteria_report>
+  <missing_inputs>
+    <item>...</item>
+  </missing_inputs>
+  <blocking_issues>
+    <issue>...</issue>
+  </blocking_issues>
+  <updated_asset>
+    ...
+  </updated_asset>
+</bbos_stage_output>

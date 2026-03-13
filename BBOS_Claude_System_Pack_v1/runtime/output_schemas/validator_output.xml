@@ -1,0 +1,11 @@
+<bbos_validator_output>
+  <validator>...</validator>
+  <status>pass|fail</status>
+  <findings>
+    <finding>
+      <location>...</location>
+      <issue>...</issue>
+      <required_fix>...</required_fix>
+    </finding>
+  </findings>
+</bbos_validator_output>

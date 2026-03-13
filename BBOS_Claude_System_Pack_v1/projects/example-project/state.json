@@ -1,0 +1,22 @@
+{
+  "project_id": "example-project",
+  "active_stage": "03_OFR",
+  "active_command": "ASSEMBLE",
+  "routing_status": "remain",
+  "last_validated_at": "2026-03-12",
+  "required_inputs": [
+    "approved STR asset pack",
+    "pricing references",
+    "proof references"
+  ],
+  "required_validators": [
+    "bbos-glabel-auditor",
+    "bbos-truth-gate-validator",
+    "bbos-stage-completeness-checker"
+  ],
+  "blocking_issues": [],
+  "artifacts": {
+    "offer_asset_pack": "working_assets/offer_asset_pack_v0_1.md"
+  },
+  "notes": []
+}

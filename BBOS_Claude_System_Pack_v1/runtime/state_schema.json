@@ -1,0 +1,12 @@
+{
+  "project_id": "string",
+  "active_stage": "00_INT | 00.1_IFB | 01_QAL | 01.1_REJ | 02_STR | 02.1_STRESS | 03_OFR | 04_OUT | 05_SAL | 05.1_DQ | 06_FUL | 07_RET | 08_OPT",
+  "active_command": "INTAKE | S-OUTPUTS | ASSEMBLE | ANNOTATE | PATCH | RESET ROUTING",
+  "routing_status": "remain | advance | patch | no_ship",
+  "last_validated_at": "YYYY-MM-DD",
+  "required_inputs": [],
+  "required_validators": [],
+  "blocking_issues": [],
+  "artifacts": {},
+  "notes": []
+}
